@@ -21,3 +21,8 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#footer_html {
+    margin-top: 10em;
+    border: 1px solid green ;
+}

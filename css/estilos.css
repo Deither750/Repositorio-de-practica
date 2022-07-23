@@ -9,6 +9,8 @@ body {
 #cabecera {
     background: rgb(255, 255, 255) ;
     color: blue;
+    padding: 1em 2em;
+    font-size: 1em;
 }
 #container {
     width: 70%;
